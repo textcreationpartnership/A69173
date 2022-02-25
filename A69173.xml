@@ -1,0 +1,467 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copie of the sermon preached on Good-Friday before the Kings Maiestie. By D. Andrewes Deane of Wesminster. VI. April 1604</title>
+            <author>Andrewes, Lancelot, 1555-1626.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1620</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69173</idno>
+            <idno type="STC">STC 624.5</idno>
+            <idno type="STC">ESTC S115803</idno>
+            <idno type="EEBO-CITATION">99851021</idno>
+            <idno type="PROQUEST">99851021</idno>
+            <idno type="VID">16273</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69173)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 16273)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 866:16, 1676:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copie of the sermon preached on Good-Friday before the Kings Maiestie. By D. Andrewes Deane of Wesminster. VI. April 1604</title>
+                  <author>Andrewes, Lancelot, 1555-1626.</author>
+               </titleStmt>
+               <extent>[40], 312, [4], 50, [6], 42, [6], 51, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>By [E. Griffin for] Robert Barker, Printer to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1620]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sermons, without a general title page. In four parts. Part 1 reprints STC 597, 596, 616, 612, 613, 620, and 622 on continuous signatures, with only the last subsidiary title page dated; parts 2-4 are reissues of STC 624, 623, and 611 and retain their imprints--STC.</note>
+                  <note>Title and imprint from first sermon. Printer's name and actual publication date from STC.</note>
+                  <note>Each sermon in part 1 has a separate title page naming Robert Barker as the printer. That on x1r is dated 1618; the rest are undated.</note>
+                  <note>"The copie of the sermon preached on Good-Friday before the Kings Maiestie" identified as STC 595a on UMI microfilm reel 866.</note>
+                  <note>Reproductions of the originals in the Folger Shakespeare Library and the University of Illinois (Urbana-Champaign Campus). Library.</note>
+                  <note>Appears at reel 866 (Folger Shakespeare Library copy) and at reel 1676 (University of Illinois (Urbana-Champaign Campus). Library copy).</note>
+                  <note>Reel 866: only "The copie of the sermon preached on Good-Friday before the Kings Maiestie" and title page to "Concio Latinè" are filmed.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:16273:1" rendition="simple:additions"/>
+            <pb facs="tcp:16273:1"/>
+            <p>THE COPIE OF THE Sermon preached on Good-<hi>Friday before the Kings Maieſtie.</hi>
+            </p>
+            <p>By D. ANDREWES Deane of <hi>Weſtminſter.</hi>
+            </p>
+            <p>VI. April 1604.</p>
+            <p>¶ Imprinted at London by <hi>Robert Barker,</hi> Printer to the Kings moſt Excellent Maieſtie.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:16273:2"/>
+            <pb facs="tcp:16273:2"/>
+            <head>LAMENT. IEREM.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>CAP. 1.12.</hi>
+                  </bibl> Haue ye no Regard, ô all ye that paſſe by the wäy? Conſider, and behold, If euer there were ſorrow, like my Sorrow, which was done vnto mee, wherewith the Lord did afflict mee in the day of the fierceneſſe of his wrath.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>T the very reading or hearing of which verſe, there is none but will preſently conceiue, it is the voyce of a party in great extremity.
+<note place="margin">A complaint.</note> In great extremity two wayes: Firſt, In ſuch di<g ref="char:EOLhyphen"/>ſtreſſe, as neuer was any, <hi>If euer there were ſorrow like my ſorrow?</hi> And then in that diſtreſſe hauing none to regard him: <hi>Haue yee no Regard all ye?</hi>
+            </p>
+            <p>To bee afflicted, and ſo afflicted, as none euer was, is very much: In that affliction, to find none to reſpect him or care for him, what can be more?
+<note place="margin">1 Cor. 10.13</note> In all our ſufferings it is a com<g ref="char:EOLhyphen"/>fort to vs that wee haue a <hi>Sicut:</hi> that nothing hath befallen vs, but ſuch as others haue felt the like: But heere, <hi>Sifuerit ſicut?</hi> If euer the like were (that is) neuer the like was.</p>
+            <p>Againe in our greateſt paines, it is a kinde of
+<pb facs="tcp:16273:3"/>eaſe, euen to finde ſome regard. Naturally wee deſire it, if we cannot be deliuered, if wee can<g ref="char:EOLhyphen"/>not bee releeued,
+<note place="margin">Iob 19.21.</note> yet to bee pitied: It ſheweth there bee yet ſome, that are touched with the ſence of our miſery, that wiſh vs well, and would giue vs eaſe if they could: But this affli<g ref="char:EOLhyphen"/>cted heere, findeth not ſo much, neither the one nor the other: but is euen as hee were an outcaſt both of Heauen and Earth. Now ve<g ref="char:EOLhyphen"/>rily a heauy caſe, and worthy to bee put in this booke of Lamentations.</p>
+            <p>I demand then,
+<note place="margin">Chriſts com<g ref="char:EOLhyphen"/>plaint.</note> Of whom ſpeaketh the Pro<g ref="char:EOLhyphen"/>phet this? of himſelfe, or of ſome other? This I finde; there is not any of the ancient writers, but do apply, yea, in a manner appropriate this ſpeech to our Sauiour CHRIST: And that this very day, the day of his Paſſion, (truely termed heere <hi>the day of Gods wrath:</hi>) And whereſoeuer they treat of the Paſſion, euer this verſe com<g ref="char:EOLhyphen"/>meth in: And (to ſay the truth) to take the words ſtrictly as they lie, they cannot agree, or be verified of any but of him, and him onely. For though ſome other, not vnfitly, may be al<g ref="char:EOLhyphen"/>lowed to ſay the ſame words: it muſt bee in a qualified ſenſe: for, in full and perfect property of ſpeech, He, and none but he: None can ſay, (neither Ieremy nor any other) <hi>Si fuerit dolor
+<pb facs="tcp:16273:3"/>ſicut dolor meus,</hi> as CHRIST can: No day of wrath, like to his day: no ſorrow to be compa<g ref="char:EOLhyphen"/>red to his, (all are ſhort of it,) nor his to any, it exceedeth them all.</p>
+            <p>And yet, according to the letter, it cannot be denied, but they bee ſet downe by <hi>Ieremy,</hi> in the perſon of his own people, being then come to great miſery, and of the holy City, then layd waſte, and deſolate by the <hi>Chaldees.</hi> What then? <hi>Ex Aegypto vocaui Filium meum.</hi>
+               <note place="margin">Hoſ. 11.1.</note> Out of <hi>Aegypt</hi> haue I called my Sonne, was literally ſpoken of this people too:
+<note place="margin">Matt. 2.15. Pſal. 22.1.</note> yet is by the Euan<g ref="char:EOLhyphen"/>geliſt applyed to our Sauiour CHRIST. <hi>My God, my God, why haſt thou forſaken mee?</hi> at the firſt vttered by <hi>Dauid,</hi> yet the ſame words our Sauiour taketh to himſelfe,
+<note place="margin">Mat. 27.46.</note> and that more true<g ref="char:EOLhyphen"/>ly and properly, then euer <hi>Dauid</hi> could: and of thoſe of <hi>Dauids,</hi> and of theſe of <hi>Ieremies,</hi> there is one and the ſame reaſon.</p>
+            <p>Of all which the ground is;
+<note place="margin">1 Cor. 10.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> that correſpon<g ref="char:EOLhyphen"/>dence which is between CHRIST &amp; the Patri<g ref="char:EOLhyphen"/>archs, Prophets, and People before CHRIST, of whom the Apoſtles rule is, <hi>Omnia in figura contingebant illis:</hi> That they were themſelues Types: and their ſuffrings, forerunning figures of the great ſuffring of the Son of God; which maketh <hi>Iſaaks</hi> offering, and <hi>Ioſephs</hi> ſelling,
+<pb facs="tcp:16273:4"/>and <hi>Iſraels</hi> calling from <hi>Aegypt,</hi> and that com<g ref="char:EOLhyphen"/>plaint of <hi>Dauids,</hi> and this of <hi>Ieremies,</hi> appliable to him; That hee may take them to himſelfe, and the Church aſcribe them to him, and that in more fitneſſe of termes, and more fulneſſe of truth, then they were at the firſt ſpoken by <hi>Dauid,</hi> or <hi>Ieremie,</hi> or any of them all.</p>
+            <p>And this rule, and the ſteps of the Fathers proceeding by this rule, are to me a warrant, to expound and apply this Verſe (as they haue done before,) to the preſent occaſion of this time; which requireth ſome ſuch Scripture to bee confidered by vs, as doth belong to his Paſſion, who this Day powred out his moſt precious Blood, as the onely ſufficient Price, of the deare purchaſe of all our Redemptions.</p>
+            <p>Bee it then to vs, (as to them it was, and as moſt properly it is) The ſpeech of the SONNE OF GOD, as this Day hanging on the Croſſe, to a ſort of careleſse people, that goe vp and downe without any maner of Regard of theſe his Sorrowes &amp; ſuffrings, ſo worthy of all Re<g ref="char:EOLhyphen"/>gard. <hi>Haue yee no regard? ô all yee that paſſe by the way, Conſider and behold, if euer there were ſorrow, like to my ſorrow, which was done vnto mee, where<g ref="char:EOLhyphen"/>with the Lord afflicted mee in the day of the fierce<g ref="char:EOLhyphen"/>neſſe of his wrath.</hi> Here is a Complaint, and here
+<pb facs="tcp:16273:4"/>is a Requeſt. A complaint, that we haue not:
+<note place="margin">The Parts.</note> A requeſt, that we would haue the Paines and Paſſions of our Sauiour CHRIST in ſome Re<g ref="char:EOLhyphen"/>gard. For firſt he complaineth (and not with<g ref="char:EOLhyphen"/>out cauſe) <hi>Haue yee no regard?</hi> And then (as willing to forget their former neglect, ſo they will yet doe it) hee falleth to entreat, <hi>ô conſider and behold!</hi>
+            </p>
+            <p>And what is that we ſhould Conſider? The Sorrow which hee ſuffereth: and in it, two things: The Quality, and the Cauſe. 1. The Quality, <hi>Si fuerit ſicut:</hi> If euer the like were; And that either in reſpect of <hi>Dolor,</hi> or <hi>Dolor meus.</hi> The Sorrow ſuffered, or the Perſon ſuf<g ref="char:EOLhyphen"/>fering. 2. The Cauſe: that is God, that in his wrath, in his fierce wrath, doth all this to Him, which cauſe will not leaue vs, till it haue led vs to another cauſe in our ſelues, and to another yet in him; All which ſerue to ripen vs to <hi>Re<g ref="char:EOLhyphen"/>gard.</hi>
+            </p>
+            <p>Theſe two then ſpecially we are mooued to Regard. 1. <hi>Regard</hi> is the maine poynt. But becauſe therefore wee Regard but faintly, be<g ref="char:EOLhyphen"/>cauſe either wee Conſider not, or not aright; we are called to conſider ſeriouſly of them. As if hee ſhould ſay, <hi>Regard</hi> you not? If you did <hi>Conſider,</hi> you would: if you <hi>Conſidered</hi> as you
+<pb facs="tcp:16273:5"/>ſhould, you would <hi>Regard</hi> as you ought. Cer<g ref="char:EOLhyphen"/>tainely the Paſſion, if it were throughly <hi>Con<g ref="char:EOLhyphen"/>ſidered,</hi> would bee duely <hi>Regarded. Conſider</hi> then.</p>
+            <p>So the points are two: The <hi>Quality,</hi> and the <hi>Cauſe</hi> of his ſuffering: and the duties two: To <hi>Conſider,</hi> and <hi>Regard.</hi> So to conſider, that wee <hi>Regard</hi> them, and him for them.</p>
+            <div type="part">
+               <head>Haue yee no Regard? &amp;c.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>O ceaſe this Complaint, and to grant this Requeſt; wee are to Regard: and that we may Regard, wee are to Con<g ref="char:EOLhyphen"/>ſider the paines of his Paſſion.
+<note place="margin">The parties to whom.</note> Which, that wee may reckon no eaſie common matter of light moment, to doe, or not doe, as wee liſt: Firſt,
+<note place="margin">O all yee that paſſe by the way, Conſuler</note> a generall ſtay is made of all paſſengers, this day. For (as it were from his Croſſe) doth our Sauiour addreſſe this his ſpeech to them that goe to and fro, the day of his Paſſion, without ſo much as entertaining a thought, or vouchſafing a look that way. <hi>O vos qui tranſitis!</hi> O you that paſſe by the way, ſtay &amp; Conſider: To them frameth he his ſpeech, that paſſe by: To them, &amp; to them all. <hi>O vos omnes, qui tranſitis,</hi> O all ye that paſſe by the way, ſtay &amp; Conſider.</p>
+               <pb facs="tcp:16273:5"/>
+               <p> Which very ſtay of his, ſheweth it to be ſome important matter, in that it is, of all. For as for ſome to be ſtayed, and thoſe the greater ſome, there may bee reaſon; the moſt part of thoſe that go thus to and fro, may well intend it, they haue little els to doe. But to except none, not ſome ſpeciall Perſon, is hard. What know we their haſte? Their occaſions may be ſuch, and ſo vrgent, as they cannot ſtay Well, what haſte, what buſines ſoeuer, paſſe not by, ſtay though. As much to ſay, as Be they neuer ſo great, your occaſions; they are not, they cannot be ſo great as this: How vrgent ſoeuer, this is more, and more to bee intended. The regard of this, is worthy the ſtaying of a lourney. It is worth the Conſidering of thoſe, that haue neuer ſo great affaires in hand. So materiall is this ſight in his account; which ſerueth to ſhew the exigence of this dutie. But as for this point it needeth not to be ſtood vpon to vs here at this time: we are not going by, wee neede not to be ſtaied; wee haue ſtaied all other our affaires, to come hi<g ref="char:EOLhyphen"/>ther, and here we are all preſent before God, to haue it ſet before vs, that wee may conſider it. Thither then let vs come.</p>
+               <p>That which we are called to behold &amp; con<g ref="char:EOLhyphen"/>ſider, is his <hi>Sorrow:</hi>
+                  <note place="margin">Sorrow.</note> And Sorow is a thing which
+<pb facs="tcp:16273:6"/>of it ſelfe Nature enclineth vs to behold, as be<g ref="char:EOLhyphen"/>ing our ſelues in the body,
+<note place="margin">Heb. 13.3.</note> which may be one daie in the like ſorrowfull caſe. Therefore will euerie good eye turne it ſelfe,
+<note place="margin">1. Behold. Luk. 10.32.</note> and looke vpon them that lie in diſtreſſe. Thoſe two in the Goſpell, that paſſed by the wounded man, be<g ref="char:EOLhyphen"/>fore they paſſed by him, (though they helped him not as the <hi>Samaritane</hi> did) yet they looked vpon him as he laie. But this partie here, lieth not,
+<note place="margin">Iohn 3.14.</note> he is lift vp as the Serpent in the wildernes, that vnleſse we turne our eies awaie purpoſely, we can neither will nor chuſe, but behold him.</p>
+               <p>But becauſe to <hi>Behold,</hi>
+                  <note place="margin">Acts 1.11.</note> and not to <hi>Conſider,</hi> is but to gaze; And gazing the Angell blameth in the Apoſtles themſelues, we muſt doe both: both <hi>Behold,</hi>
+                  <note place="margin">2. Conſider.</note> and <hi>Conſider:</hi> looke vpon, with the cie of the bodie, that is, <hi>Behold;</hi> and looke into, with the eie of the minde, that is, <hi>Conſider.</hi> So ſaith the Prophet heere. And the verie ſame doth the Apoſtle aduiſe vs to doe,
+<note place="margin">Heb. 12.23.</note> Firſt, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, to looke vpon him, (that is, to <hi>Behold</hi>) and then <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, to thinke vpon him, that is, to <hi>Conſider</hi> his <hi>Sorrow:</hi> Sorrow ſure would be con<g ref="char:EOLhyphen"/>ſidered.</p>
+               <p>Now then,
+<note place="margin">The quality, <hi>If euer the like.</hi>
+                  </note> becauſe as the qualitie of the Sor<g ref="char:EOLhyphen"/>row is, accordingly it would be co<g ref="char:cmbAbbrStroke">̄</g>ſidered, (for if it be but a common ſorow, the leſse wil ſerue,
+<pb facs="tcp:16273:6"/>but if it be ſome ſpeciall, ſo me verie heauie caſe, the more would be allowed it: for proportion<g ref="char:EOLhyphen"/>ably with the ſuffering, the conſideration is to ariſe:) To raiſe our conſideration to the full, and to eleuate it to the higheſt point, there is vpon his Sorrow ſet a <hi>Si fuerit ſicut,</hi> a note of higheſt eminencie: for <hi>Si fuerit ſicut,</hi> are words that haue life in them, and are able to quicken our conſideration, if it be not quite dead: For, by them wee are prouoked, as it were to <hi>Conſi<g ref="char:EOLhyphen"/>der,</hi> and conſidering, to ſee whether euer anie <hi>Sicut</hi> may bee found, to ſet by it, whether euer anie like it.</p>
+               <p>For if neuer anie, Our nature is, to regard things exceeding rare and ſtrange; and ſuch as the like whereof is not elſe to bee ſeene. Vpon this point then, there is a Caſe made, As if hee ſhould ſay, If euer the like, <hi>Regard</hi> not this; But if neuer anie, Bee like your ſelues in other things, and vouchſafe this, (if not your chee<g ref="char:EOLhyphen"/>feſt,) yet ſome <hi>Regard.</hi>
+               </p>
+               <p>To enter then this Compariſon,
+<note place="margin">In the three parts of his <hi>Sorrow.</hi>
+                  </note> &amp; to ſhew it for ſuch. That, are we to do, three ſundry waies: For three ſundry waies, in three ſundry words, are theſe Sufferings of his heere expreſſed: all three within the compaſſe of the Verſe.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> The firſt is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>
+                     <hi rend="sup">Mac</hi>^-<hi rend="sup">ob</hi>
+                  </hi> (which wee reade
+<pb facs="tcp:16273:7"/>
+                  <hi>Sorrow,</hi>) taken from a wound or ſtripe, as all doe agree.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> The ſecond is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi rend="sup">Gholel</hi> wee reade <hi>Done to me,</hi> taken from a word that ſignifieth <hi>Melting</hi> in a fornace; as <hi>S. Hierom</hi> noteth out of the <hi>Chaldaee</hi> (who ſo tranſlateth it.)</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> The third is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi rend="sup">Hoga</hi> where wee reade <hi>Af<g ref="char:EOLhyphen"/>flicted,</hi> from a word which importeth <hi>Renting off</hi> or <hi>Bereauing.</hi> The olde Latine turneth it, <hi>Vindemiauit me,</hi> As a Vine whoſe fruit is all plucked off. The Greeke with <hi>Theodoret,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as a Vine or tree, whoſe leaues are all beaten off, and it left naked and bare.</p>
+               <p>In theſe three are comprized his Sufferings, <hi>Wounded, Melted,</hi> and <hi>Bereft,</hi> leafe and fruit (that is) all manner of comfort.</p>
+               <p>Of all that is poenall,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <note place="margin">Of the quality.</note> or can be ſuffered, the common diuiſion is, <hi>Senſus &amp; Damni,</hi> Griefe for that we feele,
+<note place="margin">Firſt of the quality of his Paſſion.</note> or for that we forgoe. For that wee feele, in the two former, <hi>Wounded</hi> in body, <hi>Melted</hi> in ſoule: for that we forgoe, in the laſt; <hi>Bereft all,</hi> left neither fruit, nor ſo much as a leafe to hang on him.</p>
+               <p>According to theſe three,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <note place="margin">
+                     <hi>P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>na ſenſus</hi> in the body.</note> To conſider his Sufferings, and to begin firſt with the firſt. The paines of his Body, his wounds and his ſtripes.</p>
+               <p>Our verie eie will ſoone tell vs, No place was
+<pb facs="tcp:16273:7"/>left in his Bodie, where hee might bee ſmitten, and was not. His skin and fleſh rent with the whips and ſcourges, His hands and feet woun<g ref="char:EOLhyphen"/>ded with the nailes, His head with the thorns, His verie heart with the ſpeare point; All his ſences, all his parts loden with whatſoeuer wit or malice could inuent His bleſsed Body giuen as an Anuile to be beaten vpon, with the vio<g ref="char:EOLhyphen"/>lent hands of thoſe barbarous miſcreants, till they brought him into this caſe, of <hi>Si fuerit ſi<g ref="char:EOLhyphen"/>cut.</hi> For <hi>Pilates (Ecce Homo!)</hi>
+                  <note place="margin">Ioh. 19.5.</note> His ſhewing him with an <hi>Ecce,</hi> as if he ſhould ſay, Behold, looke if euer you ſaw the like ruefull ſpectacle; This verie ſhewing of his ſheweth plainely, hee was then come into wofull plight: So wofull, as <hi>Pi<g ref="char:EOLhyphen"/>late</hi> verily beleeued, his verie ſight ſo pitifull, as, it would haue moued the hardeſt hart of them all to haue relented, and ſaid, This is enough, we deſire no more. And this for the wounds of his body, (for on this we ſtand not.)</p>
+               <p>In this one peraduenture ſome <hi>Sicut</hi> may be found, in the Paines of the bodie:
+<milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <note place="margin">
+                     <hi>Poena ſenſus</hi> in the Soule.</note> but in the ſe<g ref="char:EOLhyphen"/>cond, the Sorrow of the Soule, I am ſure, none. And indeede, the Paine of the Body is but the Body of paine: the verie ſoule of Sorow &amp; Pain is the ſoules Sorrow &amp; Paine. <hi>Giue me any grieſe,</hi>
+                  <note place="margin">Syra. 15.57.</note> 
+                  <hi>ſaue the griefe of the minde,</hi> ſaith the wiſe-man,
+<pb facs="tcp:16273:8"/>
+                  <hi>For</hi> (ſaith Salomon) <hi>the ſpirit of a man will ſuſtaine all his other infirmities,</hi>
+                  <note place="margin">P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o. 18.14.</note> 
+                  <hi>but a wounded ſpirit, who can beare?</hi> And of this, this of his ſoule, I dare make a Caſe, <hi>Si fuerit ſicut.</hi>
+               </p>
+               <p>
+                  <hi>Hee began to bee troubled in Soule,</hi>
+                  <note place="margin">Ioh. 12.27. Luk. 22.44.</note> ſaith S. Iohn: <hi>To bee in an agonie,</hi> ſaith S. Luke: <hi>To bee in anguiſh of minde and deepe diſtreſſe,</hi>
+                  <note place="margin">Mar. 14.35. Matt. 26.38.</note> ſaith S. Marke. To haue his Soule round about on euery ſide inui<g ref="char:EOLhyphen"/>roned with Sorrow, and that, Sorrow to the death: Heere is <hi>trouble, anguiſh, agonie, ſorrow</hi> and <hi>deadly ſorrow:</hi> but it muſt bee ſuch, as neuer the like; So it was too.</p>
+               <p>The aeſtimate wherof we may take from the ſecond word, of <hi>Melting,</hi> that is, from his ſweat in the Garden; ſtrange, and the like whereof was ueuer heard or ſeene.
+<note place="margin">Luk. 22.44.</note>
+               </p>
+               <p>No maner violence offred him in body; no man touching him, or being neere him, in a colde night (for they were faine to haue a fire within doores) lying abroad in the aire, and vpon the colde earth, to bee all of a ſweat, and that Sweat to be Blood; and not as they call it, <hi>Diaphoreticus,</hi> a thinne faint Sweat; but <hi>Grumo<g ref="char:EOLhyphen"/>ſus,</hi> of great Drops, and thoſe, ſo many, ſo plen<g ref="char:EOLhyphen"/>teous, as they went through his apparrell and an; and through all, ſtreamed to the ground, and that in great abundance; Reade, Enquire,
+<pb facs="tcp:16273:8"/>and Conſider, <hi>Si fuerit ſudor, ſicut ſudor iſte;</hi> If euer there were Sweat like this Sweat of his? Neuer the like Sweat certainely, and therefore neuer the like Sorrow. Our tranſlation is, <hi>Done vnto me:</hi> but we ſaid, the word properly ſigni<g ref="char:EOLhyphen"/>fieth (and ſo S. Hierome &amp; the Chaldey Para<g ref="char:EOLhyphen"/>phraſt read it) <hi>Meltedme.</hi> And truely it ſhould ſeeme by this fearefull Sweat of his, hee was neere ſome fornace, the feeling whereof, was a<g ref="char:EOLhyphen"/>ble to caſt him into that Sweat, and to turne his Sweat into drops of Blood. And ſure it was ſo: For ſee, euen in the verie next words of all to this verſe, he complaineth of it,
+<note place="margin">Verſe 13.</note> 
+                  <hi>Ignem miſit in oſsibus meis,</hi> That a fire was ſent into his bones which melted him, and made that bloody Sweat to diſtill from him. That houre, what his feelings were, it is dangerous to define: wee know them not, we may be too bold to deter<g ref="char:EOLhyphen"/>mine of them. To verie good purpoſe it was, that the ancient Fathers of the Greeke Church in their Liturgy, after they haue recounted all the particular Paines as they are ſet downe in his Paſſion, and by all, &amp; by euery one of them, called for mercy; doe, after all, ſhut vp all with this, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>By thine vnknowen Sorrowes &amp; Sufferings felt by thee, but not diſtinctly known by vs, haue mercy vpon vs &amp; ſaue vs.</hi>
+               </p>
+               <pb facs="tcp:16273:9"/>
+               <p> Now, though this ſuffice not, nothing neere; yet let it ſuffice, (the time being ſhort) for his paines of Body and Soule. for thoſe of the Bo<g ref="char:EOLhyphen"/>dy, it may be ſome may haue endured the like: but the ſorrowes of his Soule are vnknowen ſorrowes: and for them, none euer haue; euer haue, or euer ſhall ſuffer the like; the like, or neere the like in any degree.</p>
+               <p>And now to the third.
+<milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <note place="margin">Pana Dam<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i.</note> It was ſaid before, To be in diſtreſſe, ſuch diſtreſſe as this was, and to finde none to comfort, nay not ſo much as to regard him, is all that can be ſaid, to make his ſorrow a <hi>Nonſicut.</hi> Comfort is it, by which in the midſt of all our ſorrowes, we are <hi>Confortati,</hi> that is, ſtrengthened and made the better able to beare them all out. And who is there, euen the pooreſt creature among vs, but in ſome de<g ref="char:EOLhyphen"/>gree findeth ſome comfort, or ſome regard at ſome bodies hands? For if that be not left, the ſtate of that partie is here in the third word ſaid to bee like the tree, whoſe leaues and whoſe fruit are all beaten off quite, &amp; it ſelfe left bare and naked both of the one and of the other.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> And ſuch was our Sauiours caſe in theſe his ſorrowes this day,
+<note place="margin">Leaues.</note> &amp; that ſo, as what is left the meaneſt of the ſons of men was not left him: <hi>Not a leafe.</hi> Not a leafe! Leaues I may well call
+<pb facs="tcp:16273:9"/>all humane Comforts and Regards,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <note place="margin">Withered leaues.</note> whereof he was then left cleane deſolate. 1. <hi>His owne,</hi> they among whom hee had gone about all his life long, healing them, teaching them, feeding them, doing them all the good hee could,
+<note place="margin">Ioh. 18.40. and 19.15. Mat. 27.25. Mar. 15.29.36.</note> it is they that crie, <hi>Not him, no, but Barabbas rather; Away with him, his bloud bee vpon vs and our chil<g ref="char:EOLhyphen"/>dren.</hi> It is they that in the middeſt of his ſor<g ref="char:EOLhyphen"/>rowes, ſhake their head at him; and crie, <hi>Ah thou wretch:</hi> they that in his moſt diſconſolate eſtate and crie, <hi>Eli, Eli,</hi> in moſt barbarous man<g ref="char:EOLhyphen"/>ner deride him, and ſay, <hi>Stay, and you ſhall ſee Elias come preſently and take him downe.</hi> And this was their Regard.</p>
+               <p>But theſe were but withered leaues.
+<milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <note place="margin">Greene leaues.</note> They then that on earth were neereſt him of all, the greeneſt leaues and likeſt to hang on, and to giue him ſome ſhade: euen of them, ſome bought and ſolde him, others denied and for<g ref="char:EOLhyphen"/>ſwore him, but all fell away and forſooke him. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (ſaith <hi>Theodoret</hi>) not a leafe left.</p>
+               <p>But, leaues are but leaues,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <note place="margin">Fruit.</note> and ſo are all earth<g ref="char:EOLhyphen"/>ly ſtaies. The fruit then, the true fruit of the Vine indeed, the true comfort in all heauineſſe, is <hi>Deſuper,</hi> from aboue, is diuine conſolation. But <hi>Vindemiauit me,</hi> (ſaith the Latine Text) euen that was in this his ſorrow, this day, bereft him
+<pb facs="tcp:16273:10"/>too. And that was his moſt ſorrowfull com<g ref="char:EOLhyphen"/>plaint of all others: not that his friends vpon earth, but that his Father from Heauen had for<g ref="char:EOLhyphen"/>ſaken him, that neither heauen nor earth yeel<g ref="char:EOLhyphen"/>ded him any regard; but that betweene the paſſioned powers of his ſoule, and whatſoeuer might any waies refreſh him, there was a Tra<g ref="char:EOLhyphen"/>uerſe drawen, and he left in the eſtate of a wea<g ref="char:EOLhyphen"/>ther-beaten tree, all deſolate and forlorne. Euident, too euident, by that his moſt dread<g ref="char:EOLhyphen"/>full cry, which at once mooued all the powers in heauen and earth,
+<note place="margin">Mat 27.46.</note> 
+                  <hi>My God, my God, why haſt thou forſaken me?</hi> Weigh wel that cry, conſider it wel and tell me, <hi>Si fuerit clamor ſicut clamor iſte,</hi> if e<g ref="char:EOLhyphen"/>uer there were cry, like to that of his: neuer the like crie, and therefore neuer the like ſorrow.</p>
+               <p>It is ſtrange, very ſtrange, that of none of the Martyrs the like can be read; who yet endured moſt exquiſite paines in their Martyrdomes; yet we ſee with what courage, with what cheer<g ref="char:EOLhyphen"/>fulneſs, how euen ſinging they are reported to haue paſſed through their torments. Will yee know the reaſon? S. <hi>Auguſtine</hi> ſetteth it downe, <hi>Martyres non eripuit, ſed nunquid deſeruit?</hi> Hee deliuered not his Martyrs, but did hee forſake them? He deliuered not their bodies, but hee forſook not their ſoules, but diſtilled into them
+<pb facs="tcp:16273:10"/>the dew of his heauenly comfort; an abundant ſupply for all they could endure. Not ſo heere, <hi>Vindemiauit me</hi> (ſaith the Prophet) <hi>Dereliquiſti me</hi> (ſaith hee himſelfe:) No comfort, no ſupply at all.</p>
+               <p>
+                  <hi>Leo</hi> it is that firſt ſayd it, (and all antiquitie allow of it,) <hi>Non ſoluit vnionem, ſed ſubtraxit viſio<g ref="char:EOLhyphen"/>nem.</hi> The vnion was not diſſolued; True, but the beames, the influence was reſtrained, and for any comfort from thence, his Soule was, euen as a ſcorched heath-ground, without ſo much as any drop of dew of Diuine comfort: as a naked tree, no fruit to refreſh him within, no leafe to giue him ſhadow without: The power of darkneſſe let looſe to afflict him: The influence of comfort, reſtrained to releeue him. It is a <hi>Non ſicut</hi> this, It cannot be expreſſed as it ſhould, and as other things may; In ſilence we may admire it, but all our words will not reach it. And though to draw it ſo farre as ſome do, is little better then blaſphemie; Yet on the o<g ref="char:EOLhyphen"/>ther ſide, to ſhrinke it ſo ſhort, as other ſome do, cannot be but with derogation to his loue, who to kindle our loue and louing Regard, would come to a <hi>Non ſicut</hi> in his ſuffering: For, ſo it was, and ſo we muſt allow it to bee. This in reſpect of his Paſſion. <hi>Dolor.</hi>
+               </p>
+               <pb facs="tcp:16273:11"/>
+               <p> Now in reſpect of his Perſon,
+<note place="margin">Secondly, of the quality of his perſon.</note> 
+                  <hi>Dolor meus.</hi> Whereof, if it pleaſe you to take a view, euen of the perſon thus wounded, thus afflicted and forſaken, you ſhall then haue a perfect <hi>Non ſiout.</hi> And in deede, the Perſon is heere a weighty circumſtance, it is thrice repeated, <hi>Meus, Mihi, Me.</hi> And wee may not leaue it out. For, as is the Perſon, ſo is the Paſſion; and any one, euen the verie leaſt degree of wrong or diſgrace, offered to a Perſon of excel<g ref="char:EOLhyphen"/>lencie, is more then an hundreth times more, to one of meane condition: So weighty is the circumſtance of the Perſon. Conſider then, how great the Perſon was; And I reſt fully aſ<g ref="char:EOLhyphen"/>ſured, heere wee boldly challenge, and ſay, <hi>Si fuerit ſicut.</hi>
+               </p>
+               <p>
+                  <hi>Ecce Homo,</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <note place="margin">Ioh. 19.5.</note> ſaith <hi>Pilate</hi> firſt, A man hee is, as we are: and were he but a man, Nay, were he not a man, but ſome poore dumb creature, it were great ruth to ſee him ſo handled, as hee was.</p>
+               <p>
+                  <hi>A man,</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <note place="margin">Mat. 27.19.</note> ſaith <hi>Pilate,</hi> and <hi>a Iuſt man.</hi> ſaith <hi>Pi<g ref="char:EOLhyphen"/>lates</hi> wife. <hi>Haue thou nothing to doe with that Iuſt man.</hi> And that is one degree further. For though we pity the puniſhment euen of male<g ref="char:EOLhyphen"/>factours themſelues: yet euer, moſt compaſſi<g ref="char:EOLhyphen"/>on wee haue of them that ſuffer, and bee inno<g ref="char:EOLhyphen"/>cent.
+<pb facs="tcp:16273:11"/>And he was Innocent: <hi>Pilate</hi> and <hi>Herod,</hi>
+                  <note place="margin">Luk. 23.14. &amp; 15. Ioh. 14.30.</note> and the Prince of this world, his very enemies, being his Iudges.</p>
+               <p>Now, among the Innocent,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> the more No<g ref="char:EOLhyphen"/>ble the Perſon, the more heauy the ſpectacle. and neuer doe our bowels earne ſo much as o<g ref="char:EOLhyphen"/>uer ſuch. <hi>Alas, alas for that Noble Prince,</hi>
+                  <note place="margin">Ier. 22.18.</note> (ſaith this Prophet,) (the ſtile of mourning for the death of a great Perſonage.) And, he that ſuffe<g ref="char:EOLhyphen"/>reth heere, is ſuch, euen a principall Perſon a<g ref="char:EOLhyphen"/>mong the ſonnes of men, of the race royall, de<g ref="char:EOLhyphen"/>ſcended from Kings;
+<note place="margin">Ioh. 19.22.</note> 
+                  <hi>Pilate</hi> ſtiled him ſo in his Title; and he would not alter it.</p>
+               <p>Three degrees. But,
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> yet wee are not at our true <hi>Quantus.</hi> For hee is yet more: More, then the higheſt of the ſonnes of men:
+<note place="margin">Ioh. 19.5. Mar. 15.39.</note> for he is THE SONNE OF THE MOST HIGH GOD. <hi>Pilate</hi> ſaw no further, but <hi>Ecce Homo;</hi> The <hi>Cen<g ref="char:EOLhyphen"/>turion</hi> did, <hi>Verè Filius Dei erat hic.</hi> Now truely this was the Sonne of God. And heere, all words forſake vs, &amp; euery tongue becommeth ſpeechleſſe.</p>
+               <p>Wee haue no way to expreſſe it, but <hi>à Minore ad Maius.</hi> (Thus,) Of this booke, the booke of <hi>Lamentations,</hi> one ſpeciall occaſion was, the death of King <hi>Ioſias:</hi> But behold, a greater then <hi>Ioſias</hi> is heere.</p>
+               <pb facs="tcp:16273:12"/>
+               <p> Of King <hi>Ioſias</hi> (as a ſpeciall reaſon of mour<g ref="char:EOLhyphen"/>ning) the Prophet ſaith,
+<note place="margin">Cap. 4.10.</note> 
+                  <hi>Spiritus oris noſtri, Chriſtus Domini,</hi> The very breath of our no<g ref="char:EOLhyphen"/>ſtrills, The Lords Annoynted; (for ſo are all good Kings in their Subiects accompts) He is gone. But behold, heere is not <hi>Chriſtus Domini,</hi> but <hi>Chriſtus Dominus,</hi> The Lords CHRIST, but the Lord CHRIST himſelfe: And that, not comming to an Honourable death in bat<g ref="char:EOLhyphen"/>tell, as <hi>Ioſias</hi> did, But, to a moſt vile reprochfull death, the death of malefactors in the higheſt degree. And not ſlaine outright as <hi>Ioſias</hi> was: but mangled and maſſacred in moſt pitifull ſtrange manner, wounded in body, wounded in Spirit, left vtterly deſolate. O conſider this well, and confeſſe the Caſe is truely put, <hi>Si fuerit Dolor ſicut Dolor meus.</hi> Neuer, neuer the like Perſon: And if, as the Perſon is, the Paſſion be, Neuer the like Paſſion to his.</p>
+               <p>It is truely affirmed, that any one, euen the leaſt drop of Blood, euen the leaſt paine, yea of the body onely, of this ſo great a Perſon; any <hi>Dolor</hi> with this <hi>Meus,</hi> had beene enough to make a <hi>Non ſicut</hi> of it. That is enough, but that is not all: for adde now the three other degrees; Adde to this <hi>Perſon,</hi> thoſe <hi>Wounds,</hi> that <hi>Sweat,</hi> and that <hi>Crie,</hi> and put all together:
+<pb facs="tcp:16273:12"/>And, I make no manner queſtion, the like was not, ſhall not, cannot euer be. It is farre aboue all that euer were, or can bee. <hi>Abyſſus eſt:</hi> Men may drowſily heare it, and coldly affect it: But Principalities and Powers, ſtand abaſhed at it. And for the Quality, both of the Paſſion and of the Perſon, That Neuer the like; thus much.</p>
+            </div>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">N</seg>Ow to proceede to the the Cauſe, and to conſider it: <milestone type="tcpmilestone" unit="unspecified" n="1"/> for without it,
+<note place="margin">Of the cauſe.</note> wee ſhall haue but halfe a <hi>Regard,</hi> and ſcarſe that. In deede, ſet the Cauſe aſide, and the Paſ<g ref="char:EOLhyphen"/>ſion (as rare as it is,) is yet but a dull and heauy ſight: we liſt not much looke vpon ſpectacles of that kinde, though neuer ſo ſtrange: they fill vs full of penſiue thoughts, &amp; make vs Me<g ref="char:EOLhyphen"/>lancholique; and ſo doth this, till vpon exa<g ref="char:EOLhyphen"/>mination of the Cauſe, we finde it toucheth vs neere; And ſo neere ſo many wayes, as we can<g ref="char:EOLhyphen"/>not chuſe, but haue ſome Regard of it.</p>
+               <p>What was done to Him wee ſee.
+<milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <note place="margin">GOD.</note> Let there now be a Queſt of Inquiry, to finde who was doer of it. Who? who, but the Power of darkneſſe, wicked <hi>Pilate,</hi> bloody <hi>Caiaphas,</hi> the enuious Prieſts, the barbarous Souldiers? None of theſe are returned heere. Wee are too
+<pb facs="tcp:16273:13"/>low, by a great deale, if we thinke to finde it a<g ref="char:EOLhyphen"/>mong men. <hi>Quae fecit mihi Deus.</hi> It was God that did it. An houre of that day was the houre of the power of darkneſſe:
+<note place="margin">Luk. 22.53.</note> but the whole day it ſelfe, is ſayd heere plainely, was the day of the wrath of God. God was a doer in it; <hi>Wherewith God hath afflicted me.</hi>
+               </p>
+               <p>God afflicteth ſome in Mercie:
+<note place="margin">Gods wrath.</note> and others in wrath. This was in his wrath. In his wrath God is not alike to all; Some he afflicteth in his more gentle and milde; others in his fierce wrath. This was in the very fierceneſſe of his wrath. His Sufferings, his Sweat and Crie, ſhew as much; They could not come, but from a wrath, <hi>Si fuerit ſicut,</hi> (For wee are not paſt <hi>Non ſicut,</hi> no not here in this part: it followeth vs ſtill, and will not leaue vs in any point, not to the end.)</p>
+               <p>The Cauſe then in God,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <note place="margin">Sinne.</note> was wrath. What cauſed this wrath? God is not wroth, but with ſinne; Nor greeuouſly wroth, but with gree<g ref="char:EOLhyphen"/>uous ſinne. And in CHRIST there was no greeuous ſinne,
+<note place="margin">Not his.</note> Nay, no ſinne at all. <hi>God</hi> did it, (the text is plaine.) And in his fierce wrath hee did it.
+<note place="margin">Ioh. 18.22.</note> For what cauſe? For God for<g ref="char:EOLhyphen"/>bid God ſhould doe as did <hi>Annas</hi> the high Preiſt, cauſe him to be ſmitten without cauſe.
+<pb facs="tcp:16273:13"/>God forbid (ſaith <hi>Abraham</hi>) the Iudge of the world ſhould doe wrong to any. To any,
+<note place="margin">Gen. 18.25.</note> but ſpecially to his own Sonne: That his Sonne, of whom with thundring voice from Heauen, he teſtifieth all his ioy and delight were in him, in him onely he was well pleaſed. And how then could his wrath wax hot, to doe all this vnto him?</p>
+               <p>There is no way to preſerue Gods Iuſtice, and Chriſts Innocency both, but to ſay as the Angell ſayd of him to the Prophet Daniel, <hi>The Meſsias ſhall be ſlaine,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi rend="sup">ve</hi> 
+                  <hi rend="sup">en</hi> 
+                  <hi rend="sup">lo</hi>, <hi>ſhall bee ſlaine,</hi>
+                  <note place="margin">Dan. 9.26.</note> 
+                  <hi>but not for himſelfe.</hi> Not for himſelfe? for whom then? for ſome others.
+<note place="margin">Other mens.</note> He took vpon him the perſon of others; and ſo doing, Iuſtice may haue her courſe and proceede.</p>
+               <p>Pitie it is to ſee a man pay that hee neuer tooke: but if he will become a Surety, if he will take on him the Perſon of the Debtor, ſo hee muſt. Pity to ſee a ſilly poore Lamb lie bleeding to death; but if it muſt be a ſacrifice (ſuch is the nature of a ſacrifice) ſo it muſt. And ſo Chriſt, though without ſin in himſelfe, yet as a Sure<g ref="char:EOLhyphen"/>ty, as a Sacrifice, may iuſtly ſuffer for others, if hee will take vpon him their perſons; and ſo, God may iuſtly giue way to his wrath againſt him.</p>
+               <pb facs="tcp:16273:14"/>
+               <p> And who be thoſe others?
+<note place="margin">Ours.</note> The Prophet E<g ref="char:EOLhyphen"/>ſay telleth vs, and telleth it vs ſeuen times ouer for failing,
+<note place="margin">Eſa. 53.4.5.6.</note> 
+                  <hi>Hee tooke vpon him our infirmities, and bare our maladies: He was wounded for our iniquities, and broken for our tranſgreſsions. The chaſtizement of our peace was vpon him, and with his ſtripes were we healed. All we as ſheepe were gone aſtray, and turned euery man to his owne way: and the Lord hath layd vpon him the iniquities of vs all.</hi> All, all, euen thoſe <hi>that paſſe to and fro,</hi> and for all this, <hi>Regard</hi> nei<g ref="char:EOLhyphen"/>ther him nor his Paſſion.</p>
+               <p>The ſhort is: It was we, that for our ſinnes, our many, great, and greeuous ſinnes, <hi>(Si fue<g ref="char:EOLhyphen"/>rit ſicut)</hi> the like whereof neuer were) ſhould haue ſwet this Sweat, and haue cryed this Cry; ſhould haue been ſmitten with theſe ſorrowes by the fierce wrath of God, had not he ſtepped betweene the blow and vs, and latched it in his owne body and ſoule, euen the dint of the fierceneſſe of the wrath of God. O the <hi>Non ſicut</hi> of our ſinnes, that could not otherwiſe be anſwered!</p>
+               <p>To returne then a true verdict. It is we, (wee wretched ſinners that wee are) that are to bee found the principalls in this act; and thoſe on whom we ſeeke to ſhift it, to deriue it from our ſelues, Pilate and Caiaphas and the reſt, but in<g ref="char:EOLhyphen"/>ſtrumentall
+<pb facs="tcp:16273:14"/>cauſes only. And it is not the exe<g ref="char:EOLhyphen"/>cutioner that killeth the man properly, (that is, They:) No, nor the Iudge, (which is God in this caſe:) onely ſinne, <hi>Solum peccatum homicida eſt,</hi> Sinne onely is the murtherer, (to ſay the truth;) and our ſinnes the murtherers of the Sonne of God: and the <hi>Non ſicut</hi> of them, the true cauſe of the <hi>Nonſicut</hi> both of Gods wrath, and of his ſorrowfull ſufferings.</p>
+               <p>Which bringeth home this our text to vs, e<g ref="char:EOLhyphen"/>uen into our owne boſomes; and applieth it moſt effectually, to me that ſpeake, and to you that heare, to euery one of vs; and that with the Prophet <hi>Nathans</hi> application; <hi>Tu es homo,</hi>
+                  <note place="margin">2 Sam. 12.7.</note> Thou art the Man, euen thou, for whom God in his fierce wrath thus afflicted him. Sinne then was the cauſe on our part, Why wee, or ſome other for vs.</p>
+               <p>But yet,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <note place="margin">Loue of vs.</note> what was the cauſe why He on his part? what was that that mooued him thus to become our Surety, and to take vpon him our debt &amp; danger? that mooued him thus to lay downe his Soule, a ſacrifice for our ſinne? Sure, <hi>Oblatus eſt quia voluit,</hi> ſaith <hi>Eſay</hi> againe,
+<note place="margin">Eſa. 53.7.</note> Offered he was for no other cauſe, but becauſe he would. For vnleſſe he would, he needed not: Needed not, for any neceſſity of Iuſtice; for no
+<pb facs="tcp:16273:15"/>Lamb was euer more innocent: Not for any neceſſity of conſtraint; For twelue legions of Angells were ready at his command: But, be<g ref="char:EOLhyphen"/>cauſe he would.</p>
+               <p>And why would hee? No reaſon can be gi<g ref="char:EOLhyphen"/>uen, but, becauſe hee Regarded vs: (Marke that reaſon.) And what were we? Verily, vtterly vnworthy euen his leaſt regard; not worth the taking vp,
+<note place="margin">Rom. 5.8.</note> not worth the looking after. <hi>Cumini<g ref="char:EOLhyphen"/>mici eſſemus,</hi> (ſaith the Apoſtle) we were his ene<g ref="char:EOLhyphen"/>mies when he did it; without all deſert before, and without all regard after hee had done and ſuffred all this for vs: and yet he would Regard vs, that ſo little regard him. For when he ſaw vs (a ſort of forlorne ſinners) <hi>Non priùs natos,</hi>
+                  <note place="margin">Epheſ. 2.3.</note> 
+                  <hi>quàm damnatos,</hi> Damned as faſt as born, as being by nature children of wrath, and yet ſtill hea<g ref="char:EOLhyphen"/>ping vp wrath againſt the day of wrath,
+<note place="margin">Rom. 2.5.</note> by the errours of our life, till the time of our paſſing hence: and then the fierce wrath of God, ready to ouerwhelme vs, and to make vs endure the terrour and torments of a neuer-dying death, (another <hi>Non ſicut</hi> yet) When (I ſay) he ſaw vs in this caſe, hee was mooued with compaſſion o<g ref="char:EOLhyphen"/>uer vs, and vndertooke all this for vs. Euen then, in his loue he regarded vs, and ſo regarded vs, that he regarded not himſelfe, to regard vs.</p>
+               <pb facs="tcp:16273:15"/>
+               <p> 
+                  <hi>Bernard</hi> ſaith moſt truely, <hi>Dilexiſti me Do<g ref="char:EOLhyphen"/>mine, magis quàm te, quando mori voluiſti prome:</hi> In ſuffring all this for vs, thou ſhewedſt (Lord) that wee were more deare to thee, that thou re<g ref="char:EOLhyphen"/>gardeſt vs more, then thine owne ſelfe: And ſhall this Regard finde no regard at our hands?</p>
+               <p>It was Sinne then, and the hainouſneſſe of Sinne in vs, that prouoked wrath &amp; the fierce<g ref="char:EOLhyphen"/>neſſe of his wrath in <hi>God:</hi> It was loue, and the greatnes of his loue in CHRIST, that cauſed him to ſuffer the Sorrowes, and the greeuouſ<g ref="char:EOLhyphen"/>nes of theſe Sorrowes, and all for our ſakes.</p>
+               <p>And indeed, but onely to teſtifie the <hi>Non ſi<g ref="char:EOLhyphen"/>cut</hi> of this his Loue, all this needed not, that was done to him. One, any one, euen the very leaſt of all the paines hee endured, had beene enough; enough, in reſpect of the <hi>Meus:</hi> enough, in reſpect of the <hi>Non ſicut</hi> of his Per<g ref="char:EOLhyphen"/>ſon. For that which ſetteth the high price on this Sacrifice, is this; That he which offereth it vnto God, is God. But if little had been ſuffered, little would the Loue haue been thought, that ſuffred ſo little; and as little Regard would haue been had of it. To awake our Regard then, or to leaue vs excuſeleſſe, if wee continue regard<g ref="char:EOLhyphen"/>leſſe; all this hee bare for vs: that hee might as
+<pb facs="tcp:16273:16"/>truely make a Caſe of <hi>Sifuerit Amor, ſicut Amor meus,</hi> as hee did before, of <hi>Si fuerit Dolor, ſicut Dolor meus.</hi> Wee ſay wee will Regard Loue, if we will, heere it is to Regard.</p>
+               <p>So haue wee the Cauſes all three: Wrath in God: Sinne in our ſelues: Loue in Him.</p>
+               <p>Yet haue we not all we ſhould.
+<note place="margin">Our benefit by it. Pertaine it not to vs?</note> For, what of all this? What good? <hi>Cui bono?</hi> That, that is it in<g ref="char:EOLhyphen"/>deed that wee will Regard, if any thing: as be<g ref="char:EOLhyphen"/>ing matter of Benefit, the only thing in a man<g ref="char:EOLhyphen"/>ner the world regardeth, which bringeth vs a<g ref="char:EOLhyphen"/>bout to the very firſt words againe. For, the ve<g ref="char:EOLhyphen"/>ry firſt words which wee reade, <hi>Haue yee no re<g ref="char:EOLhyphen"/>gard?</hi> are in the Originall, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> lo alechem, which the Seuentie turne (word for word) <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and the Latine likewiſe, <hi>Nonne ad vos pertinet?</hi> Pertaines it not to you, that you Re<g ref="char:EOLhyphen"/>gard it no better? For theſe two, Pertaining, and Regarding, are folded one in another, and goe together ſo commonly, as one is taken often for the other. Then to beſure to bring vs to Regard, hee vrgeth this. <hi>Pertaines not all this to you?</hi> Is it not for your good? Is not the benefit yours? Matters of benefit they partaine to you, and without them, Loue, and all the reſt may pertaine to whom they will.</p>
+               <p>Conſider then, the ineſtimable benefit that
+<pb facs="tcp:16273:16"/>groweth vnto you, from this incomparable Loue. It is not impertinent this; Euen this; That to vs heereby, all is turned about cleane contrary: That by his Stripes, wee are healed:
+<note place="margin">2 Cor. 6.2.</note> by his Sweat, wee refreſhed: By his forſaking, wee receiued to Grace. That this day, to Him the day of the fierceneſſe of Gods wrath: is to vs the Day of the fulneſſe of Gods fauour, (as the Apoſtle calleth it) A Day of Saluation. In reſpect of that he ſuffered, (I deny not) an euill day: a day of heauineſſe: But, in reſpect of that, which He, by it hath obtained for vs: It is, (as wee truely call it, (A good Day, a Day of Ioy and Iubilee. For it doth not onely ridde vs of that wrath, which pertained to vs for our Sinnes: but further it maketh that pertaine to vs whereto we had no manner of right at all.</p>
+               <p>For, not onely by his death, as by the death of our ſacrifice, by the blood of his Croſſe, as by the bloud of the Paſchal Lambe; the De<g ref="char:EOLhyphen"/>ſtroyer paſſeth ouer vs, and we ſhall not periſh:
+<note place="margin">Exod. 12.15</note> But alſo by his death as by the death of our High Prieſt (for he is Prieſt and Sacrifice both) we are reſtored from our exile,
+<note place="margin">Num. 15.28</note> euen to our for<g ref="char:EOLhyphen"/>mer forfeited eſtate in the land of Promiſe. Or rather (as the Apoſtle ſayth) <hi>Non ſicut delictum ſic donum:</hi> Not to the ſame eſtate,
+<note place="margin">Rom. 8.15.</note> but to one
+<pb facs="tcp:16273:17"/>nothing like it: (that is) One farre better, then the eſtate our ſinnes bereft vs: For they depri<g ref="char:EOLhyphen"/>ued vs of Paradiſe, a place on earth: but by the purchaſe of his bloud, we are entitled to a farre higher, euen the kingdom of Heauen: and his bloud,
+<note place="margin">Mat. 26.28.</note> not only the bloud of Remiſſion to ac<g ref="char:EOLhyphen"/>quite vs of our ſinnes; but the bloud of the Te<g ref="char:EOLhyphen"/>ſtament too, to bequeath vs, and giue vs eſtate, In that heauenly inheritance.</p>
+               <p>Now whatſoeuer elſe, this (I am ſure) is a <hi>Non ſicut:</hi> as that which the eye, by all it can ſee; the eare, by all it can heare; the heart by all it can conceiue, cannot pattern it, or ſet the like by it. Pertaines not this vnto vs neither? Is not this worth the regard? Sure if any thing bee worthy the regard, this is moſt worthy of our very worthieſt and beſt regard.</p>
+               <p>Thus haue we conſidered and ſeene,
+<note place="margin">The recapitu<g ref="char:EOLhyphen"/>lation of all.</note> not ſo much as in this ſight we might or ſhould, but as much as the time will giue vs leaue. And now, lay all theſe before you, (euery one of them a <hi>Non ſicut</hi> of it ſelfe) the paines of his Pody, eſteemed by Pilates <hi>Ecce;</hi> the ſorrowes of his Soule, by his ſweat in the Garden; the comfortleſſe eſtate of his ſorrowes, by his cry on the Croſſe: And with theſe, his Perſon, as being the Sonne of the great and Eternall God.
+<pb facs="tcp:16273:17"/>Then ioyne to theſe, the Cauſe: In God, his fierce wrath: In vs, our hainous ſinnes deſer<g ref="char:EOLhyphen"/>uing it: In him, his exceeding great Loue, both ſuffering that for vs which wee had deſer<g ref="char:EOLhyphen"/>ued; and procuring for vs, that we could neuer deſerue: making that to appertaine to himſelfe, which of right pertained to vs; and making that pertaine to vs, which pertained to him onely, and not to vs at all, but by his meanes a<g ref="char:EOLhyphen"/>lone. And after their view in ſeuerall, lay them all together, ſo many <hi>Non ſicuts</hi> into one, and tell mee, if his Complaint bee not iuſt, and his requeſt moſt reaſonable.</p>
+               <p>Yes ſure, his Complaint is iuſt,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <note place="margin">The com<g ref="char:EOLhyphen"/>plaint. The matter Iuſt.</note> 
+                  <hi>Haue yee no Regard?</hi> None? and yet neuer the like? None and it pertaines vnto you? <hi>No Regard?</hi> As if it were ſome common ordinary matter, and the like neuer was? <hi>No Regard?</hi> As if it con<g ref="char:EOLhyphen"/>cern'd you not a whit, and it toucheth you ſo neere? As if hee ſhould ſay: Rare things you regard, yea though they no wayes pertaine to you; this is exceeding rare, and will you not re<g ref="char:EOLhyphen"/>gard it? Againe, things that neerely touch you, you regard, though they be not rare at all; this toucheth you exceeding neere, euen as neere as your ſoule toucheth you, and will you no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, yet regard it? will neither of theſe by it ſelfe,
+<pb facs="tcp:16273:18"/>mooue you? will not both theſe together mooue you? what will mooue you? will Pity, Heere is Diſtreſſe, Neuer the like: will Duty? here is a Perſon, neuer the like: will Feare? here is wrath, neuer the like: will Remorſe? heere are ſinnes, neuer the like: will Kindneſſe? heere is Loue, neuer the like: will bounty? heere are Benefits, neuer the like: will all theſe? heere they be all, all aboue any <hi>Sicut,</hi> all in the high<g ref="char:EOLhyphen"/>eſt degree.</p>
+               <p>Truely the Complaint is Iuſt,
+<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> it may mooue vs: it wanteth no reaſon, it may mooue: and it wanteth no affection in the deliuery of it to vs, on his part to mooue vs. Sure it mooued him exceeding much, for among all the deadly ſor<g ref="char:EOLhyphen"/>rowes of his moſt bitter Paſſion, This, euen this ſeemeth to bee his greateſt of all, and that which did moſt affect him, euen the greefe of the ſlender reckoning moſt men haue it in; as little reſpecting him, as if he had done, or ſuffe<g ref="char:EOLhyphen"/>red nothing at all for them. For loe, of all the ſharp paines he endureth, he complaineth not but of this he complaineth, of <hi>No Regard:</hi> That which greeueth him moſt, that, which moſt he moaneth, is this. It is ſtrange, he ſhould be in paines, ſuch paines as neuer any was, and not complaine himſelfe of them, But, of want of re<g ref="char:EOLhyphen"/>gard
+<pb facs="tcp:16273:18"/>onely. Strange, hee ſhould not make requeſt, O Deliuer me, or Relieue me: But on<g ref="char:EOLhyphen"/>ly, <hi>O Conſider and Regard me.</hi> In effect, as if hee ſaid, None, no deliuerance, no releefe do I ſeeke: Regard I ſeeke. And all that I ſuffer, I am con<g ref="char:EOLhyphen"/>tent with it: I regard it not: I ſuffer moſt wil<g ref="char:EOLhyphen"/>lingly, if this I may finde at your hands, Re<g ref="char:EOLhyphen"/>gard.</p>
+               <p>Truely,
+<note place="margin">The regard of the Creatures of it.</note> This ſo paſſionate a Complaint may mooue vs; it mooued all but vs: For moſt ſtrange of all it is, that all the Creatures in hea<g ref="char:EOLhyphen"/>uen &amp; earth, ſeemed to heare this his mourne<g ref="char:EOLhyphen"/>full Complaint, and in their kind, to ſhew their Regard of it: The Sunne in heauen ſhrinking in his light: the earth trembling vnder it; the very ſtones cleauing in ſunder, as if they had ſenſe and Sympathie of it: and ſinfull men one<g ref="char:EOLhyphen"/>ly, not mooued with it. And yet it was not for the Creatures, this was done to Him, to them it pertaineth not: But for vs it was, and to vs it doth; And ſhall wee not yet Regard it? Shall the Creature, and not we? Shall we not?</p>
+               <p>If we doe not, it may pertaine to vs,
+<note place="margin">The benefit, if</note> but wee pertaine not to it: It pertaines to all, but all per<g ref="char:EOLhyphen"/>taine not to it. None pertaine to it, but they that take benefit by it; and none take benefit by it, no more then by the brazen Serpent, but
+<pb facs="tcp:16273:19"/>they that fix their eye on it. Behold, Conſider, and Regard it: the profit, the benefit is loſt without Regard.</p>
+               <p>If wee doe not,
+<note place="margin">The perill, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> not.</note> as this was a day of Gods fierce wrath againſt him, onely for regarding vs; ſo there is another day comming, and it will quickly bee heere, a day of like fierce wrath a<g ref="char:EOLhyphen"/>gainſt vs,
+<note place="margin">Pſal. 90.11.</note> for not regarding him. And who re<g ref="char:EOLhyphen"/>gardeth the power of this wrath? He that doth will ſurely Regard this.</p>
+               <p>In that day, there is not the moſt careleſſe of vs all, but ſhall cry as they did in the Goſpell, <hi>Domine,</hi>
+                  <note place="margin">Mark. 4.38.</note> 
+                  <hi>non ad te pertinet, ſi perimus?</hi> Pertaines it not to thee, Careſt thou not that wee periſh? Then would we be glad to pertaine to him, &amp; his Paſſion. Pertaines it to vs then, &amp; pertaines it not now? Sure now it muſt, if then it ſhall.</p>
+               <p>Then,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <note place="margin">The Requeſt. H<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e ſome Regard.</note> to giue end to this Complaint, let vs grant him his requeſt, and Regard his Paſſion. Let the Rareneſſe of it: The Neereneſſe to vs: Let Pity, or Duty: Feare, or Remorſe: Loue, or Bounty Any of them, or all of them. Let the iuſtneſſe of his Complaint: Let his affectionate manner of Complaining of this, and only this. Let the ſhame of the Creatures Regard. Let our Profit, or our Peril. Let ſome thing preuaile with vs, to haue it in ſome Regard.</p>
+               <pb facs="tcp:16273:19"/>
+               <p> Some Regard! Verily, as his ſufferings,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <note place="margin">Our beſt ſte<g ref="char:EOLhyphen"/>gard.</note> his Loue, our good by them are: ſo ſhould our Regard be, a <hi>Non ſicut</hi> too, That is, a Regard of theſe, and of nothing in compariſon of theſe. It ſhould be ſo: For with the benefit, euer the Re<g ref="char:EOLhyphen"/>gard ſhould ariſe.</p>
+               <p>But God help vs poore ſinners, and be mer<g ref="char:EOLhyphen"/>cifull vnto vs. Our Regard is a <hi>Non ſicut,</hi> in<g ref="char:EOLhyphen"/>deed: but it is backward, and in a contrary ſenſe; That is, no where ſo ſhallow, ſo ſhort, or ſo ſoone done. It ſhould be otherwiſe, it ſhould haue our deepeſt conſideration, this; and our higheſt Regard.</p>
+               <p>But if that cannot be had,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <note place="margin">At leaſt, ſome Regard.</note> (our nature is ſo hea<g ref="char:EOLhyphen"/>uy, and fleſh &amp; bloud ſo dull of apprehenſion in Spirituall things,) yet at leaſt wiſe ſome Re<g ref="char:EOLhyphen"/>gard. Some, I ſay: The more the better; But in any wiſe ſome. And not as heere, No Regard, none at all: Some waies to ſhew, we make ac<g ref="char:EOLhyphen"/>compt of it, to withdraw our ſelues, to voyd our mindes of other matters, to ſet this before vs, to thinke vpon it, to thanke him for it; to regard him, and ſtay and ſee, whether hee will regard vs, or no. Sure he will,
+<note place="margin">Acts 2.37.</note> and we ſhall feele our hearts pricked with ſorrow, by conſidera<g ref="char:EOLhyphen"/>tion of the cauſe in vs, our ſinne: And againe,
+<note place="margin">Luk. 24.32.</note> warm within vs, by conſideration of the cauſe
+<pb facs="tcp:16273:20"/>in him, his Loue; till by ſome motion of Grace he anſwer vs, and ſhew, that our Regard is ac<g ref="char:EOLhyphen"/>cepted of him.
+<milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <note place="margin">This Day ſpe<g ref="char:EOLhyphen"/>cially.</note> And this, as at all other times, (for no day is amiſſe, but at all times, ſometime to bee taken for this dutie) ſo ſpecially on this Day; this Day which we hold holy to the me<g ref="char:EOLhyphen"/>morie of his Paſſion, this day to do it; to make this Day, the Day of Gods wrath &amp; CHRISTS ſuffering, a Day to vs of ſerious conſideration and Regard of them both.</p>
+               <p>It is kindly to conſider <hi>Opus diei, in die ſuo,</hi> The worke of the Day, in the Day it was wrought: and this day it was wrought. This Day therefore, whatſoeuer buſineſſe be, to lay them aſide a little; whatſoeuer our haſte, yet to ſtay a little, and to ſpend a few thoughts in calling to minde and taking to Regard, what this day the Sonne of God did and ſuffered for vs: and all for this end, that what hee was then, we might not be; and what he is now, we might be for euer.</p>
+               <p>Which, Almighty God grant wee may doe, more or leſſe, euen euerie one of vs, ac<g ref="char:EOLhyphen"/>cording to the ſeuerall meaſures of his grace in vs, &amp;c.</p>
+            </div>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:16273:20"/>
+            <p>
+               <hi>Concio Latinè habita</hi> CORAM REGIA MAIESTATE, <hi>quinto Augusti</hi> 1606. in Aula Grenuici:</p>
+            <p>Quo tempore venerat in Angliam, Regem noſtrum inuiſurus, Sereniſſimus Potentiſſimuſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Princeps CHRISTIANVS quartus, Daniae &amp; Nor<g ref="char:EOLhyphen"/>uegiae Rex.</p>
+            <p>
+               <hi>Ab Epiſcopo Ciceſtrienſi Eleemoſynario Regio.</hi>
+            </p>
+            <p>LONDINI, Excude bat <hi>Robertus Barkerus,</hi> Sereniſſimae Regiae Maieſtatis Typographus.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
